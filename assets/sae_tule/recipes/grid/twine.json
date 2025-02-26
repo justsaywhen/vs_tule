@@ -1,0 +1,9 @@
+{
+	"ingredientPattern": "TT,TT",
+	"ingredients": {
+		"T": {"type": "item", "code": "tulefibers", "quantity": 2 }
+	},
+	"width": 2,
+	"height": 2,
+	"output": { "type": "item", "code": "tuletwine", "quantity": 1  }
+}

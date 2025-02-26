@@ -1,2 +1,2 @@
-# vs_tule
-Vintage Story mod More Useful Tule
+# More Useful Tule
+Vintage Story mod to add more uses to tule

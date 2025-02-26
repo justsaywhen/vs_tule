@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "sae_tule",
+  "name": "More Useful Tule",
+  "description" : "Changes tule to an actual item that can be used to create more than just thatch.",
+  "authors": ["JustSayWhen"],
+  "version": "1.0.0",
+  "dependencies": {},
+  "website": ""
+}

@@ -1,0 +1,8 @@
+[
+    {
+        "file": "game:blocktypes/plant/reedpapyrus.json",
+        "op": "replace",
+        "path": "/dropsByType/tallplant-tule-land-normal-*/0/code",
+        "value": "sae_tule:tuletops"
+    }
+]

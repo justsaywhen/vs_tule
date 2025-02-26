@@ -1,0 +1,9 @@
+{
+	"ingredientPattern": "T",
+	"ingredients": {
+		"T": {"type": "item", "code": "tuletops", "quantity": 1 }
+	},
+	"width": 1,
+	"height": 1,
+	"output": { "type": "item", "code": "game:thatch", "quantity": 1  }
+}

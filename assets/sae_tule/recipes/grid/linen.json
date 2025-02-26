@@ -1,0 +1,12 @@
+[
+
+	{
+		"ingredientPattern": "TT,TT",
+		"ingredients": {
+			"T": { "type": "item", "code": "tuletwine" }
+		},
+		"width": 2,
+		"height": 2,
+		"output": { "type": "block", "code": "game:linen-normal-down", "quantity": 1 }
+	}
+]
