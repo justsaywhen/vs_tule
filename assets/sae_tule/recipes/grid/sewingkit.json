@@ -2,7 +2,7 @@
 	"ingredientPattern": "TTS	TT_",
 	"requiresTrait": "clothier",
 	"ingredients": {
-		"T": { "type": "item", "code": "tuletwine", "quantity": 2 },
+		"T": { "type": "item", "code": "tuletwine" },
 		"S": { "type": "item", "code": "game:stick" }
 	},
 	"width": 3,

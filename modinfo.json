@@ -4,7 +4,7 @@
   "name": "More Useful Tule",
   "description" : "Changes tule to an actual item that can be used to create more than just thatch.",
   "authors": ["JustSayWhen"],
-  "version": "0.3.0",
+  "version": "0.4.0",
   "dependencies": {},
   "website": ""
 }
