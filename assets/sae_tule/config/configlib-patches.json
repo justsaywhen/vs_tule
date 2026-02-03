@@ -1,0 +1,54 @@
+{
+    "version": 1,
+    "patches": {
+        "integer": {
+            "sae_tule:recipes/grid/fibers.json": {
+                "/ingredients/T/quantity": "(FIBER_COST) / 4"
+            },
+            "sae_tule:recipes/grid/twine.json": {
+                "/ingredients/T/quantity": "(TWINE_COST) / 4"
+            },
+            "sae_tule:recipes/grid/linen.json": {
+                "/0/ingredients/T/quantity": "(LINEN_COST) / 4"
+            }
+        }
+    },
+    "settings": {
+        "integer": {
+            "FIBER_COST": {
+                "name": "fiber-cost",
+                "comment": "Tule per fiber craft",
+                "default": 16,
+                "logarithmic": true,
+                "range": {
+                    "min": 4,
+                    "max": 256,
+                    "step": 4
+                }
+            },
+            "TWINE_COST": {
+                "name": "twine-cost",
+                "comment": "Fibers per twine craft",
+                "default": 8,
+                "logarithmic": true,
+                "range": {
+                    "min": 4,
+                    "max": 256,
+                    "step": 4
+                }
+            },
+            "LINEN_COST": {
+                "name": "linen-cost",
+                "comment": "Twine per linen craft",
+                "default": 8,
+                "logarithmic": true,
+                "range": {
+                    "min": 4,
+                    "max": 128,
+                    "step": 4
+                }
+            }
+        }
+    }
+}
+
