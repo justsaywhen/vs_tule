@@ -1,9 +1,20 @@
-{
-	"ingredientPattern": "TT,TT",
-	"ingredients": {
-		"T": {"type": "item", "code": "tulefibers", "quantity": 2 }
+[
+	{
+		"ingredientPattern": "TT,TT",
+		"ingredients": {
+			"T": {"type": "item", "code": "tulefibers", "quantity": 2 }
+		},
+		"width": 2,
+		"height": 2,
+		"output": { "type": "item", "code": "tuletwine", "quantity": 1  }
 	},
-	"width": 2,
-	"height": 2,
-	"output": { "type": "item", "code": "tuletwine", "quantity": 1  }
-}
+	{
+		"ingredientPattern": "T",
+		"ingredients": {
+			"T": { "type": "item", "code": "tuletwine" }
+		},
+		"width": 1,
+		"height": 1,
+		"output": { "type": "item", "code": "game:flaxtwine", "quantity": 1 }
+	}
+]
